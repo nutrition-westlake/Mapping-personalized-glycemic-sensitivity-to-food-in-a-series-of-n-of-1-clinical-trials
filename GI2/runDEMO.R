@@ -3,7 +3,7 @@
 library(shiny)
 library(ggplot2)
 
-runApp("/Users/zhangke/Desktop/Demo_PGI dietary library")
+runApp("Path to the folder of GI2")
 
 
 
