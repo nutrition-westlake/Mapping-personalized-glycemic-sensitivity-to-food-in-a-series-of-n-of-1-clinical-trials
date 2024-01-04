@@ -1,3 +1,21 @@
+## Copyright
+
+- Copyright: Prof. Ju-Sheng Zheng
+- Institution: School of Life Sciences, Westlake University, Hangzhou, China
+- Email: zhengjusheng@westlake.edu.cn
+<br/>
+
+## Author
+
+- Author: Ke Zhang
+- Email: zhangke@westlake.edu.cn
+- Last update: 2024.01.04
+<br/>
+
+## Environment
+
+- R version: 4.3.1
+- Python version: 3.11.4
 
 ## Main analysing code
 
@@ -11,3 +29,5 @@
 ## PGI - GI Application ($GI^2$)
 
 #### We provide a prototype of application, named PGI-GI ($GI^2$). You can download the folder and run the runDEMO.R, then you can calculate your own PGI and diet-specific iUL-carb.
+<br/>
+
